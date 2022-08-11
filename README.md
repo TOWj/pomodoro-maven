@@ -1,2 +1,2 @@
-### Bot is worked on Heroku free server.
+### Bot is local hosted.
 #### [Link for bot](https://t.me/netologyTowEcho_bot)
