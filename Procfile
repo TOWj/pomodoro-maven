@@ -1,2 +1,2 @@
-web: java -jar target/pomodoro-maven.jar
+worker: sh target/pomodoro-maven
 heroku ps:scale worker=1
